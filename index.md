@@ -5,4 +5,4 @@
 ## <a name="header-2-cce99c598cfdb9773ab041d54c3d973a"></a> Profile
 - sei20
 - 兵庫
--　得意なことはまだない
+-　　得意なことはまだない
