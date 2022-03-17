@@ -24,7 +24,7 @@
 - [GitHub](https://github.com/sei20
 - [Qiita](QiitaのURL)
 - 作った作品
-  - [作品1](https://sei20.github.io/develop/）
+  - [作品1](https://sei20.github.io/develop/
   - [作品2](作品2のURL)
 
 # <a name="header-1-bbaff12800505b22a853e8b7f4eb6a22"></a> Contact
