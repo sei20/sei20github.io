@@ -21,7 +21,7 @@
 
 # <a name="header-1-7b8af977b90a67e053ff2667a26828fe"></a> Works
 アピールできる活動内容を書きましょう。
-- [GitHub](github.com/sei20)
+- [GitHub]()
 - [Qiita](QiitaのURL)
 - 作った作品
   - [作品1](作品1のURL)
