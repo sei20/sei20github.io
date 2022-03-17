@@ -21,7 +21,7 @@
 
 # <a name="header-1-7b8af977b90a67e053ff2667a26828fe"></a> Works
 アピールできる活動内容を書きましょう。
-- [GitHub](GitHubのURL)
+- [GitHub]()
 - [Qiita](QiitaのURL)
 - 作った作品
   - [作品1](作品1のURL)
@@ -34,5 +34,6 @@
 - [Mail](mailto:メールアドレス)
 
 # <a name="header-1-16d2b386b2034b9488996466aaae0b57"></a> History
-学歴、職歴、アルバイト、インターン経験など。
+　2021年　N高等学校入学
+ 郵便局で仕分のアルバイトをしていました。
 
