@@ -25,7 +25,7 @@
 
 -　Node.js
 
- <img src="node.js.svg" width="10%">
+ <img src="nodejs.svg" width="10%">
  
  
  
