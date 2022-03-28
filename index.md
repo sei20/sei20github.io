@@ -37,7 +37,7 @@
 　　　- [Twitter](TwitterプロフィールのURL)
 　　　- [LinkedIn](LinkedInプロフィールのURL)　
 　　　- [Mail](mailto:メールアドレス)
-# History
+## History
 　2021年　N高等学校入学
  
  郵便局で仕分の短期アルバイトをしていました。
