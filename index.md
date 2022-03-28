@@ -8,6 +8,7 @@
 - 名前　sei20
 - 出身　兵庫県
 - 言語　　C++
+
 #  Skills
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
 - パソコン　mac
@@ -32,11 +33,13 @@
   - [作品1](https://sei20.github.io/develop/)
   - [作品2](https://sei20.github.io/assessment/assessment.html)
   - [作品3](https://sei20.github.io/dino-game/dino.html)
+  
 ## Contact
 連絡先を書きましょう。
 　　　- [Twitter](TwitterプロフィールのURL)
 　　　- [LinkedIn](LinkedInプロフィールのURL)　
 　　　- [Mail](mailto:メールアドレス)
+　　　
 ## History
 　2021年　N高等学校入学
  
