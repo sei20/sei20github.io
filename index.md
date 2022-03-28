@@ -6,8 +6,8 @@
 
 #  Profile
 - 名前　sei20
-- 出身　兵庫県
-- 言語　　C++
+　　- 出身　兵庫県
+　　- 言語　　C++
 
 #  Skills
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
@@ -15,9 +15,9 @@
 ## 言語　
 　- C++ 
 　- Node.js
-　-  - JavaScript
+　 - JavaScript
  
- <img src="nodejs.svg" width="10%">
+ <img src="c-plusplus.svg" width="10%">
  <img src="nodejs.svg" width="10%">
  <img src="javascript.svg" width="10%">
 
