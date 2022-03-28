@@ -12,13 +12,12 @@
 #  Skills
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
 - パソコン　mac
-- 言語　C++
-- Node.js
-- JavaScript
+- 言語　C++ <img src="c-plusplus.svg" width="10%"> 
+- Node.js <img src="nodejs.svg" width="10%">
+- JavaScript <img src="javascript.svg" width="10%">
 
-<img src="nodejs.svg" width="10%"> 
-<img src="javascript.svg" width="10%">
-<img src="c-plusplus.svg" width="10%"> 
+
+
 
 # 資格
 - 資格 日商簿記三級
