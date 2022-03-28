@@ -25,11 +25,11 @@
 
 -　Node.js
 
- <img src="c-plusplus.svg" width="10%">
+ <img src="node.js.svg" width="10%">
  
  
  
-　　　-　　JavaScript
+-　　JavaScript
  
  
  <img src="javascript.svg" width="10%">
