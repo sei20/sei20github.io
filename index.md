@@ -15,7 +15,7 @@
 - 言語　C++
 - Node.js
 - javascript
-<img src="nodejs.svg" width="50%"> <img src="javascript.svg" width="50%"> <img src="javascript.svg" width="50%"> 
+<img src="nodejs.svg" width="50%"> <img src="javascript.svg" width="50%"> <img src="c-plusplus.svg" width="50%"> 
 
 # 資格
 - 資格 日商簿記三級
