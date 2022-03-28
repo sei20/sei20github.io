@@ -19,13 +19,17 @@
 ## 言語　
 
 - C++ 
-　　-　Node.js
-　　　-　　JavaScript
- 
+
+<img src="c-plusplus.svg" width="10%">
+
+
+-　Node.js
+
  <img src="c-plusplus.svg" width="10%">
  
  
- <img src="nodejs.svg" width="10%">
+ 
+　　　-　　JavaScript
  
  
  <img src="javascript.svg" width="10%">
