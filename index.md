@@ -14,12 +14,8 @@
 - 言語　C++
 - Node.js
 
-![プログラミング使用言語画像](nodejs.svg)
-
-![プログラミング使用言語画像](javascript.svg)
-
-![プログラミング使用言語画像](c-plusplus.svg)
-
+![プログラミング使用言語画像](nodejs.svg)![プログラミング使用言語画像](javascript.svg)![プログラミング使用言語画像](c-plusplus.svg)
+# <a name="header-1-aa79c5d1cbe3d96218a92481bcfaa39c"></a> 資格
 - 資格 日商簿記三級
 - 全商英検
 
