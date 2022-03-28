@@ -14,8 +14,8 @@
 - パソコン　mac
 ## 言語　
 　- C++ 
-　- Node.js
-　 - JavaScript
+　　-　Node.js
+　　　-　　JavaScript
  
  <img src="c-plusplus.svg" width="10%">
  <img src="nodejs.svg" width="10%">
