@@ -23,7 +23,11 @@
 　　　-　　JavaScript
  
  <img src="c-plusplus.svg" width="10%">
+ 
+ 
  <img src="nodejs.svg" width="10%">
+ 
+ 
  <img src="javascript.svg" width="10%">
 
 
