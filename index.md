@@ -16,10 +16,12 @@
 - javascript
 
 ![プログラミング使用言語画像](nodejs.svg)![プログラミング使用言語画像](javascript.svg)![プログラミング使用言語画像](c-plusplus.svg)
-# <a name="header-1-aa79c5d1cbe3d96218a92481bcfaa39c"></a> 資格
+
+# 資格
 - 資格 日商簿記三級
 - 全商英検
-# <a name="header-1-aa79c5d1cbe3d96218a92481bcfaa39c"></a>プログラミング
+
+# プログラミング
 自分のできることはまだ少ないですが頑張っていろいろなことをしていきたいです。
 
 # <a name="header-1-7b8af977b90a67e053ff2667a26828fe"></a> Works
