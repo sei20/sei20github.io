@@ -34,9 +34,9 @@
   - [作品3](https://sei20.github.io/dino-game/dino.html)
 # Contact
 連絡先を書きましょう。
-- [Twitter](TwitterプロフィールのURL)
-- [LinkedIn](LinkedInプロフィールのURL)
-- [Mail](mailto:メールアドレス)
+　- [Twitter](TwitterプロフィールのURL)
+　- [LinkedIn](LinkedInプロフィールのURL)
+　- [Mail](mailto:メールアドレス)
 
 #  History
 　2021年　N高等学校入学
