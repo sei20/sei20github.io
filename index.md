@@ -13,11 +13,12 @@
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
 - パソコン　mac
 ## 言語　
-- C++ 
-<img src="c-plusplus.svg" width="10%"> 
-- Node.js
+　- C++ 
+　- Node.js
+　-  - JavaScript
+ 
  <img src="nodejs.svg" width="10%">
-- JavaScript
+ <img src="nodejs.svg" width="10%">
  <img src="javascript.svg" width="10%">
 
 
