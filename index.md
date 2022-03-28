@@ -35,7 +35,9 @@
 ## Contact
 連絡先を書きましょう。
 　　　- [Twitter](TwitterプロフィールのURL)
+　　　
 　　　- [LinkedIn](LinkedInプロフィールのURL)
+　　　
 　　　- [Mail](mailto:メールアドレス)
 
 #  History
