@@ -32,7 +32,7 @@
   - [作品1](https://sei20.github.io/develop/)
   - [作品2](https://sei20.github.io/assessment/assessment.html)
   - [作品3](https://sei20.github.io/dino-game/dino.html)
-# <a name="header-1-bbaff12800505b22a853e8b7f4eb6a22"></a> Contact
+# <a name="header-1-bbaff12800505b22a853e8b7f4eb6a22"></a>Contact
 連絡先を書きましょう。
 - [Twitter](TwitterプロフィールのURL)
 - [LinkedIn](LinkedInプロフィールのURL)
