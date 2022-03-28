@@ -35,11 +35,8 @@
 ## Contact
 連絡先を書きましょう。
 　　　- [Twitter](TwitterプロフィールのURL)
-　　　
-　　　- [LinkedIn](LinkedInプロフィールのURL)
-　　　
+　　　- [LinkedIn](LinkedInプロフィールのURL)　
 　　　- [Mail](mailto:メールアドレス)
-
 #  History
 　2021年　N高等学校入学
  
