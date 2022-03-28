@@ -15,7 +15,7 @@
 - Node.js
 
 ![プログラミング使用言語画像](nodejs.svg)
-![プログラミング使用言語画像]javascript.svg)
+![プログラミング使用言語画像](javascript.svg)
 - 資格 日商簿記三級
 - 全商英検
 
