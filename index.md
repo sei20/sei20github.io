@@ -7,7 +7,7 @@
 #  Profile
 
 - 名前　sei20
-　　- 出身　兵庫県
+- 出身　兵庫県　　
 　
 
 #  Skills
@@ -23,14 +23,15 @@
 <img src="c-plusplus.svg" width="10%">
 
 
--　 Node.js
+-　  Node.js
+
 
  <img src="nodejs.svg" width="10%">
  
  
  
--　 JavaScript
- 
+-　 JavaScript 
+
  
  <img src="javascript.svg" width="10%">
 
