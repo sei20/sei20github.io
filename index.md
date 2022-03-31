@@ -23,13 +23,13 @@
 <img src="c-plusplus.svg" width="10%">
 
 
--　Node.js
+-　 Node.js
 
  <img src="nodejs.svg" width="10%">
  
  
  
--　JavaScript
+-　 JavaScript
  
  
  <img src="javascript.svg" width="10%">
