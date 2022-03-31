@@ -29,7 +29,7 @@
  
  
  
--　　JavaScript
+-　JavaScript
  
  
  <img src="javascript.svg" width="10%">
