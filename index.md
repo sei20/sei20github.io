@@ -9,7 +9,6 @@
 - 名前　sei20
 - 出身　兵庫県　　
 　
-
 #  Skills
 
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
@@ -17,26 +16,17 @@
 - パソコン　mac
 
 ## 言語　
-
 - C++ 
 
 <img src="c-plusplus.svg" width="10%">
-
-
 -　 Node.js
 
 
  <img src="nodejs.svg" width="10%">
- 
- 
- 
 -　 JavaScript 
 
  
  <img src="javascript.svg" width="10%">
-
-
-
 
 # 資格
 - 資格 日商簿記三級
@@ -49,11 +39,15 @@
 アピールできる活動内容を書きましょう。
 - [GitHub](https://github.com/sei20)
 - [Qiita](QiitaのURL)
-- 作った作品
+- 作った作品(N予備校での作品)
   - [作品1](https://sei20.github.io/develop/)
   - [作品2](https://sei20.github.io/assessment/assessment.html)
   - [作品3](https://sei20.github.io/dino-game/dino.html)
-  
+
+- 作った作品（自作）
+　　　- [作品1]
+
+
 ## Contact
 連絡先を書きましょう。
 　　　- [Twitter](TwitterプロフィールのURL)
@@ -61,7 +55,9 @@
 　　　- [Mail](mailto:メールアドレス)
 　　　
 ## History
-　2021年　N高等学校入学
- 
+２００２年生まれ
+2019年　高校中退
+２０２０年　鬱の治療中
+2021年　N高等学校入学
  郵便局で仕分の短期アルバイトをしていました。
 
